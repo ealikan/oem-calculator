@@ -1,3 +1,4 @@
 # oem-calculator
 
-![image](https://github.com/ealikan/oem-calculator/assets/113925891/3edf0e5f-8636-4957-a15a-90f943db78e1)
+![image](https://github.com/ealikan/oem-calculator/assets/113925891/5b571819-b3ed-4338-9089-e7e13aaa3de1)
+
